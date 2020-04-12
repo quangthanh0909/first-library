@@ -1,0 +1,22 @@
+{
+  "name": "startwar",
+  "version": "1.0.0",
+  "description": "get random start war list",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quangthanh0909/first-library.git"
+  },
+  "author": "QuangThanh.Nguyen <quangthanh0909@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quangthanh0909/first-library/issues"
+  },
+  "homepage": "https://github.com/quangthanh0909/first-library#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
